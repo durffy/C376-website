@@ -1,0 +1,15 @@
+<NotepadPlus>
+    <Project name="website">
+        <Folder name="css">
+            <File name="css\main.css" />
+            <File name="css\bootstrap.min.css" />
+        </Folder>
+        <Folder name="img" />
+        <Folder name="js">
+            <File name="js\main.js" />
+        </Folder>
+        <File name="about.html" />
+        <File name="contact.html" />
+        <File name="index.html" />
+    </Project>
+</NotepadPlus>
